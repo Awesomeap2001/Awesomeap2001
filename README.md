@@ -1,3 +1,5 @@
+![image title](https://rushter.com/counter.svg)
+
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
